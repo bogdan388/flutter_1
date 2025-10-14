@@ -17,7 +17,7 @@ class CyberTapApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Cyber Tap 2077',
+      title: 'Cyber Tap 2026',
       theme: ThemeData(
         primarySwatch: Colors.purple,
         fontFamily: 'Orbitron',
